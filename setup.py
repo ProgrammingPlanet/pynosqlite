@@ -8,7 +8,7 @@ setup(
 	author = 'Moin Ahmad',
 	author_email = 'ahmadmoin723@gmail.com',
 	url = 'https://github.com/programmingplanet/pynosqlite',
-	download_url = 'https://github.com/programmingplanet/pynosqlite/archive/v_01.tar.gz',
+	download_url = 'https://github.com/ProgrammingPlanet/pynosqlite/archive/refs/tags/v0.1.tar.gz',
 	keywords = ['Single File', 'Json', 'DataBase', 'Small', 'LightWeight', 'Fast'],
 	install_requires=['filelock==3.0.12'],
 	classifiers=[
